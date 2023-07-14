@@ -40,7 +40,7 @@ class Footer extends React.Component {
                   rel="noopener noreferrer"
                   target="_blank"
                 >
-                  About Us
+                  Resources
                 </NavLink>
               </NavItem>
 
@@ -50,7 +50,7 @@ class Footer extends React.Component {
                   rel="noopener noreferrer"
                   target="_blank"
                 >
-                  Blog
+                  Company
                 </NavLink>
               </NavItem>
 
